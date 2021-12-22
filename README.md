@@ -15,7 +15,12 @@ Una vez ejecutado el comando presionamos la opcion run de Android Studio para po
 
 Para finalizar, se crean el APK de la aplicación seguido con el archivo Bundle, como se muestra en la figura:
 
+- Apk
+
 *Img Carpeta del apk
+
+- Bundle 
+
 *Img Carpeta del bundle
 
 # APK/Bundle con React
