@@ -9,7 +9,7 @@ Al ejecutar el comando ionic build , posterior a ello se ejecuta el comando ioni
 
 *ficheros de android studio
 
-Una vez ejecutado el comando presionamos la opcion run de Android Studio para poder compilar la aplicación, de esta forma podemos obtener la ejecuci+on de la aplicación como se muestra en la figura 
+Una vez ejecutado el comando presionamos la opcion run de Android Studio para poder compilar la aplicación, de esta forma podemos obtener la ejecución de la aplicación como se muestra en la figura 
 
 ![Ejecución](https://user-images.githubusercontent.com/58042215/147162543-8cb610fa-1113-4f53-84c6-6204ab1a7887.PNG)
 
