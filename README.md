@@ -7,7 +7,7 @@
 # APK/Bundle con Angular
 Al ejecutar el comando ionic build , posterior a ello se ejecuta el comando ionic cap add android para generar la carpeta andriod, misma que servirá para la ejecucion de la aplicacion en android, como se muestra en la siguiente figura:
 
-*ficheros de android studio
+![ficheros android](https://user-images.githubusercontent.com/58042215/147163127-edbbe16e-8047-463f-b7b0-219fc7f855cf.PNG)
 
 Una vez ejecutado el comando presionamos la opcion run de Android Studio para poder compilar la aplicación, de esta forma podemos obtener la ejecución de la aplicación como se muestra en la figura 
 
@@ -17,11 +17,11 @@ Para finalizar, se crean el APK de la aplicación seguido con el archivo Bundle,
 
 - Apk
 
-*Img Carpeta del apk
+![apk de angular](https://user-images.githubusercontent.com/58042215/147163048-e680b558-3bdd-422a-9fd8-1cdb65997e0a.PNG)
 
 - Bundle 
 
-*Img Carpeta del bundle
+![Bundle angular](https://user-images.githubusercontent.com/58042215/147163061-da96402a-4260-482a-9fd6-f4d6e8985363.PNG)
 
 # APK/Bundle con React
 Una vez ejecutados los comandos ionic build y ionic cap add android se generarán los directorios para poder crear la aplicación en Android Studio. Como se muestra en la siguiente figura:
