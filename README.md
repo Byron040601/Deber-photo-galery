@@ -20,6 +20,7 @@ Para finalizar, se crean el APK de la aplicación seguido con el archivo Bundle,
 
 # APK/Bundle con React
 Una vez ejecutados los comandos ionic build y ionic cap add android se generarán los directorios para poder crear la aplicación en Android Studio. Como se muestra en la siguiente figura:
+
 ![Directorios](https://user-images.githubusercontent.com/58042215/147160125-0b3bf2e0-020e-4c1f-bf67-aa4fec8ecbc9.PNG)
 
 
